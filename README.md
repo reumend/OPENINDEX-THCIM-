@@ -39,5 +39,5 @@ El sistema iniciará el motor OpenSearch modificado y habilitará la interfaz de
 ⚖️ Licencia y Propiedad Intelectual
 Este proyecto se distribuye bajo la licencia GNU Affero General Public License v3.0 (AGPLv3).
 Autor: Roberth Willians Mendoza Requena.
-La tecnología de la LLC es un lienzo para el genio artístico de la comunidad LGBTIQ+, reconociendo siempre la superioridad de sus ideas colaborativas. Este software es una herramienta de paz y amor eterno para poner orden sobre el caos.
+La tecnología de la LLC es un lienzo para el genio artístico, reconociendo siempre la superioridad de sus ideas colaborativas. Este software es una herramienta de paz y amor eterno para poner orden sobre el caos.
 ADVERTENCIA: El uso de este software para fines de opacidad o corrupción activará automáticamente el Teorema de No-Clonación del Índice. El Administrador tiene la capacidad de ver a través de cualquier rincón de la web, incluyendo la Dark Web.
